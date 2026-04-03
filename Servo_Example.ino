@@ -1,4 +1,5 @@
 #include <Servo.h>
+// Daniel Kim Changes: bleh bleh
 Servo myservo;
 int pos = 0;
 void setup() {
